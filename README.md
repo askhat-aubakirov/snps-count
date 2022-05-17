@@ -1,6 +1,6 @@
 # snps-count
 17.05.2022
-Developed to be used for bachelor thesis on SNPs analysis
+Python script developed to be used for bachelor thesis on SNPs analysis
 
 Input files are ".snp" formatted files from UGENE "Export consensus variations" operation.
 
@@ -14,4 +14,4 @@ If there is a need to choose the file to be analysed, you can always change the 
 
 by Askhat Aubakirov
 e-mail: askhat.aubakirov@yahoo.com
-linkedIn: https://www.linkedin.com/in/askhattio/
+LinkedIn: https://www.linkedin.com/in/askhattio/
